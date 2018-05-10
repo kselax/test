@@ -10,3 +10,6 @@ hello
 echo "hello world"
 
 echo "`date`"
+
+
+echo "something new"
