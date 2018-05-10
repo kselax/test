@@ -8,3 +8,5 @@ hello(){
 hello
 
 echo "hello world"
+
+echo "`date`"
